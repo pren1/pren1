@@ -1,6 +1,7 @@
 ### A programmer, a researcher, a learner, and most importantly, a problem solver.
+## $MyLoss = D_{KL}(work||life) + patience * \left \| \left \| bugs \right \| \right \| _2$  
 
-Welcome to my github page! 
+Welcome to my GitHub page! 
 
 Here you will find a bunch of interesting repos. Though they are not necessarily related to my daily research, they are fun enough for me to waste my spare time on.
 
@@ -8,7 +9,7 @@ Here you will find a bunch of interesting repos. Though they are not necessarily
 
 - [A Pipeline Of Pretraining Bert On Google TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
 
-  A very useful tutorial I wrote when I played around with Google's super fast TPU. Got 40 starts, yeah~!
+  A very useful tutorial I wrote when I played around with Google's super-fast TPU. Got 40 starts, yeah~!
 
 - [MMD Variational Autoencoder](https://github.com/pren1/keras-MMD-Variational-Autoencoder)
   
@@ -17,25 +18,25 @@ Here you will find a bunch of interesting repos. Though they are not necessarily
   
   ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
   
-  A chinese voice synthesizer specially developed for several vtubers. 
+  A Chinese voice synthesizer specially developed for several vtubers. 
 - [VAST](https://github.com/pren1/VAST)
   
-  A model that can seperate mixed voices from two Japanese speakers.   
+  A model that can separate mixed voices from two Japanese speakers.   
 - [Artificial DD](https://github.com/pren1/Artificial_dd)
   
   ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
   
-  A software that can send context-based fake chinese chat message. You can check the video [here](https://www.bilibili.com/video/BV17J411n7Lx/). 
+  A software that can send context-based fake Chinese chat messages. You can check the video [here](https://www.bilibili.com/video/BV17J411n7Lx/). 
 
 ## 💻 Machine learning projects
 
 - [Emoticon Descriminator](https://github.com/pren1/Fast_naive_bayes)
   
-  A naive bayes classifier that can descriminte emoticon.
+  A naive Bayes classifier that can discriminate emoticons.
 
 - [Fans Kalman](https://github.com/pren1/fans_kalman)
   
-  A Kalman filter that is utilized to predict the fans of any vtuber.
+  A Kalman filter is utilized to predict the fans of any vtuber.
 ## 📖 Class projects
 - [Primary Type classifier](https://github.com/pren1/naive_bayes)
 
@@ -43,10 +44,10 @@ Here you will find a bunch of interesting repos. Though they are not necessarily
 
 - [JPCT Demo](https://github.com/pren1/JPCT_demo)
 
-  A well documented face model render app on Android platform
+  A well-documented face model render app on the Android platform.
 
-## 🌟 My machine learning tutorials
+## 🌟 My machine-learning tutorials
 
 ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
 
-I write basic machine learning tutorials related to SVM, logistic regression, naive bayes and so on. Please feel free to check them [here](https://www.bilibili.com/read/readlist/rl619919).
+I write basic machine-learning tutorials related to SVM, logistic regression, naive Bayes, etc. Please feel free to check them [here](https://www.bilibili.com/read/readlist/rl619919).
