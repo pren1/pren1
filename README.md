@@ -37,11 +37,11 @@ Here you will find a bunch of interesting repos. Though they are not necessarily
   
   A Kalman filter that is utilized to predict the fans of any vtuber.
 ## 📖 Class projects
-- [Primary_Type_classifier](https://github.com/pren1/naive_bayes)
+- [Primary Type classifier](https://github.com/pren1/naive_bayes)
 
   A primary type classification based on Naive Bayes.
 
-- [JPCT_Demo](https://github.com/pren1/JPCT_demo)
+- [JPCT Demo](https://github.com/pren1/JPCT_demo)
 
   A well documented face model render app on Android platform
 
