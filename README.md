@@ -1,6 +1,8 @@
 ### A programmer, a researcher, a learner, and most importantly, a problem solver.
 
-Welcome to my github page! Here you will see a bunch of interesting repos. Though they are not necessarily related to my research, they are fun enough for me to waste my spare time on.
+Welcome to my github page! 
+
+Here you will find a bunch of interesting repos. Though they are not necessarily related to my daily research, they are fun enough for me to waste my spare time on.
 
 ## 💡 Deep learning projects
 
