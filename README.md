@@ -19,7 +19,7 @@ Welcome to my github page! Here you will see a bunch of interesting repos. Thoug
 - [VAST](https://github.com/pren1/VAST)
   
   A model that can seperate mixed voices from two Japanese speakers.   
-- [Artificial_dd](https://github.com/pren1/Artificial_dd)
+- [Artificial DD](https://github.com/pren1/Artificial_dd)
   
   ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
   
