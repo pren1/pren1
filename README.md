@@ -4,14 +4,14 @@ Welcome to my github page! Here you will see a bunch of interesting repos. Thoug
 
 ## 💡 Deep learning projects
 
-- [A_Pipeline_Of_Pretraining_Bert_On_Google_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
+- [A Pipeline Of Pretraining Bert On Google TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
 
   A very useful tutorial I wrote when I played around with Google's super fast TPU. Got 40 starts, yeah~!
 
-- [Keras version of the MMD-Variational-Autoencoder](https://github.com/pren1/keras-MMD-Variational-Autoencoder)
+- [MMD Variational Autoencoder](https://github.com/pren1/keras-MMD-Variational-Autoencoder)
   
   A MMD-Variational-Autoencoder written in Keras.
-- [Chinese voice synthesizer](https://www.bilibili.com/video/BV1fS4y1k7C3/)
+- [Chinese Voice Synthesizer](https://www.bilibili.com/video/BV1fS4y1k7C3/)
   
   ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
   
@@ -27,11 +27,11 @@ Welcome to my github page! Here you will see a bunch of interesting repos. Thoug
 
 ## 💻 Machine learning projects
 
-- [Emoticon descriminator](https://github.com/pren1/Fast_naive_bayes)
+- [Emoticon Descriminator](https://github.com/pren1/Fast_naive_bayes)
   
   A naive bayes classifier that can descriminte emoticon.
 
-- [fans kalman](https://github.com/pren1/fans_kalman)
+- [Fans Kalman](https://github.com/pren1/fans_kalman)
   
   A Kalman filter that is utilized to predict the fans of any vtuber.
 ## 📖 Class projects
@@ -39,7 +39,7 @@ Welcome to my github page! Here you will see a bunch of interesting repos. Thoug
 
   A primary type classification based on Naive Bayes.
 
-- [JPCT_demo](https://github.com/pren1/JPCT_demo)
+- [JPCT_Demo](https://github.com/pren1/JPCT_demo)
 
   A well documented face model render app on Android platform
 
