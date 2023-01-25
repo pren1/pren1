@@ -7,6 +7,10 @@ Welcome to my github page! Here you will see a bunch of interesting repos. Thoug
 - [A_Pipeline_Of_Pretraining_Bert_On_Google_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
 
   A very useful tutorial I wrote when I played around with Google's super fast TPU. Got 40 starts, yeah~!
+
+- [Keras version of the MMD-Variational-Autoencoder](https://github.com/pren1/keras-MMD-Variational-Autoencoder)
+  
+  A MMD-Variational-Autoencoder written in Keras.
 - [Chinese voice synthesizer](https://www.bilibili.com/video/BV1fS4y1k7C3/)
   
   ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
