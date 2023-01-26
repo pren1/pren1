@@ -9,7 +9,7 @@ Here you will find a bunch of interesting repos. Though they are not necessarily
 
 - [A Pipeline Of Pretraining Bert On Google TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
 
-  A very useful tutorial I wrote when I played around with Google's super-fast TPU. Got 40 starts, yeah~!
+  A very useful tutorial I wrote when I played around with Google's super-fast TPU. Got 40 stars, yeah~!
 
 - [MMD Variational Autoencoder](https://github.com/pren1/keras-MMD-Variational-Autoencoder)
   
