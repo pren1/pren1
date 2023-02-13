@@ -51,6 +51,6 @@ I also write tutorials on basic machine learning topics, such as SVM, logistic r
 
 # Get in Touch
 
-If you have any questions or just want to chat about my projects, please feel free to reach out to me via the my email. I would love to hear from you and discuss any questions or feedback you may have. 
+If you have any questions or just want to chat about my projects, please feel free to reach out to me via my email. I would love to hear from you and discuss any questions or feedback you may have. 
 
 Thank you for visiting my GitHub page, and I look forward to hearing from you soon!
