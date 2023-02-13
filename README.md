@@ -21,13 +21,13 @@ Here you will find a selection of my most interesting projects. Some are related
   A MMD-VAE implemented in Keras, for unsupervised representation learning.
 
 - [Chinese Voice Synthesizer](https://www.bilibili.com/video/BV1fS4y1k7C3/)
-  A synthesizer developed for several Chinese vtubers. The demo video is available on Bilibili.
+  A synthesizer developed for several Chinese vtubers. The demo video is available on [Bilibili](https://www.bilibili.com/video/BV1fS4y1k7C3/).
 
 - [VAST](https://github.com/pren1/VAST)
   A model for separating mixed voices from two Japanese speakers.
 
 - [Artificial DD](https://github.com/pren1/Artificial_dd)
-  A fun project that sends context-based fake Chinese chat messages. The demo video is available on [Bilibili] (https://www.bilibili.com/video/BV17J411n7Lx/).
+  A fun project that sends context-based fake Chinese chat messages. The demo video is available on [Bilibili](https://www.bilibili.com/video/BV17J411n7Lx/).
 
 ## 💻 Machine Learning Projects
 
