@@ -27,7 +27,7 @@ Here you will find a selection of my most interesting projects. Some are related
   A model for separating mixed voices from two Japanese speakers.
 
 - [Artificial DD](https://github.com/pren1/Artificial_dd)
-  A fun project that sends context-based fake Chinese chat messages. The demo video is available on Bilibili (https://www.bilibili.com/video/BV17J411n7Lx/).
+  A fun project that sends context-based fake Chinese chat messages. The demo video is available on [Bilibili] (https://www.bilibili.com/video/BV17J411n7Lx/).
 
 ## 💻 Machine Learning Projects
 
@@ -51,6 +51,6 @@ I also write tutorials on basic machine learning topics, such as SVM, logistic r
 
 # Get in Touch
 
-If you have any questions or just want to chat about my projects, please feel free to reach out to me via the links provided on my GitHub profile. I would love to hear from you and discuss any questions or feedback you may have. 
+If you have any questions or just want to chat about my projects, please feel free to reach out to me via the my email. I would love to hear from you and discuss any questions or feedback you may have. 
 
 Thank you for visiting my GitHub page, and I look forward to hearing from you soon!
