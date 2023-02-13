@@ -1,53 +1,56 @@
-### A programmer, a researcher, a learner, and most importantly, a problem solver.
-## $MyLoss = D_{KL}(work||life) + patience * \left \| \left \| bugs \right \| \right \| _2$  
+# About Me
 
-Welcome to my GitHub page! 
+Hi! I am a programmer, researcher, learner, and problem solver. My passion lies in combining my technical skills with my curiosity to solve real-world challenges. I believe in the power of technology to bring positive change and make a difference in people's lives.
 
-Here you will find a bunch of interesting repos. Though they are not necessarily related to my daily research, they are fun enough for me to waste my spare time on.
+# My Loss Function
 
-## 💡 Deep learning projects
+$MyLoss = D_{KL}(work||life) + patience * \left \| \left \| bugs \right \| \right \| _2$  
 
-- [A Pipeline Of Pretraining Bert On Google TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
+Balancing work and life can be a challenge for anyone, and as a programmer, debugging can often be a source of frustration. However, I believe that with patience and persistence, any problem can be solved.
 
-  A very useful tutorial I wrote when I played around with Google's super-fast TPU. Got 40 stars, yeah~!
+# My Projects
+
+Here you will find a selection of my most interesting projects. Some are related to my research, while others are just for fun. Regardless, I'm proud of all of them and I hope you enjoy exploring them as much as I enjoyed creating them.
+
+## 💡 Deep Learning Projects
+
+- [Pretraining BERT on Google TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
+  A tutorial I wrote to help others take advantage of Google's fast TPUs for pretraining BERT models. With 40 stars, it's been well received!
 
 - [MMD Variational Autoencoder](https://github.com/pren1/keras-MMD-Variational-Autoencoder)
-  
-  A MMD-Variational-Autoencoder written in Keras.
+  A MMD-VAE implemented in Keras, for unsupervised representation learning.
+
 - [Chinese Voice Synthesizer](https://www.bilibili.com/video/BV1fS4y1k7C3/)
-  
-  ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
-  
-  A Chinese voice synthesizer specially developed for several vtubers. 
+  A synthesizer developed for several Chinese vtubers. The demo video is available on Bilibili.
+
 - [VAST](https://github.com/pren1/VAST)
-  
-  A model that can separate mixed voices from two Japanese speakers.   
+  A model for separating mixed voices from two Japanese speakers.
+
 - [Artificial DD](https://github.com/pren1/Artificial_dd)
-  
-  ![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
-  
-  A software that can send context-based fake Chinese chat messages. You can check the video [here](https://www.bilibili.com/video/BV17J411n7Lx/). 
+  A fun project that sends context-based fake Chinese chat messages. The demo video is available on Bilibili (https://www.bilibili.com/video/BV17J411n7Lx/).
 
-## 💻 Machine learning projects
+## 💻 Machine Learning Projects
 
-- [Emoticon Descriminator](https://github.com/pren1/Fast_naive_bayes)
-  
-  A naive Bayes classifier that can discriminate emoticons.
+- [Emoticon Discriminator](https://github.com/pren1/Fast_naive_bayes)
+  A fast implementation of a Naive Bayes classifier for emoticon discrimination.
 
 - [Fans Kalman](https://github.com/pren1/fans_kalman)
-  
-  A Kalman filter is utilized to predict the fans of any vtuber.
-## 📖 Class projects
-- [Primary Type classifier](https://github.com/pren1/naive_bayes)
+  A Kalman filter for predicting the fans of any vtuber.
 
-  A primary type classification based on Naive Bayes.
+## 📖 Class Projects
+
+- [Primary Type Classifier](https://github.com/pren1/naive_bayes)
+  A primary type classifier based on Naive Bayes.
 
 - [JPCT Demo](https://github.com/pren1/JPCT_demo)
+  A face model render app for Android, with detailed documentation.
 
-  A well-documented face model render app on the Android platform.
+## 🌟 Machine Learning Tutorials
 
-## 🌟 My machine-learning tutorials
+I also write tutorials on basic machine learning topics, such as SVM, logistic regression, and Naive Bayes. These are available on [Bilibili](https://www.bilibili.com/read/readlist/rl619919) (in Chinese).
 
-![Maintainer](https://img.shields.io/badge/Chinese-only-blue)
+# Get in Touch
 
-I write basic machine-learning tutorials related to SVM, logistic regression, naive Bayes, etc. Please feel free to check them [here](https://www.bilibili.com/read/readlist/rl619919).
+If you have any questions or just want to chat about my projects, please feel free to reach out to me via the links provided on my GitHub profile. I would love to hear from you and discuss any questions or feedback you may have. 
+
+Thank you for visiting my GitHub page, and I look forward to hearing from you soon!
