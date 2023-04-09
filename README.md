@@ -12,6 +12,14 @@ Maintaining a healthy work-life balance can be a daunting task for anyone, espec
 
 Here you will find a selection of my most interesting projects. Some are related to my research, while others are just for fun. Regardless, I'm proud of all of them and I hope you enjoy exploring them as much as I enjoyed creating them.
 
+## 🎉 Indoor Navigation for the Visually Impaired
+
+Introducing an innovative indoor navigation app specifically designed for visually impaired individuals. My iPhone app, programmed in Swift, employs advanced particle filter technology to provide accurate and dependable navigation assistance. Take a look at [my video](https://drive.google.com/file/d/1MvOaDDGPZ5dK3lg0F4zSvck8pdmtDzPl/view?usp=sharing) to witness the full extent of my app's capabilities.
+
+<p>
+    <img src="app_demo.gif"/>
+</p>
+
 ## 💡 Deep Learning Projects
 
 - [Pretraining BERT on Google TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)
