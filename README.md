@@ -12,9 +12,11 @@ Maintaining a healthy work-life balance can be a daunting task for anyone, espec
 
 Here you will find a selection of my most interesting projects. Some are related to my research, while others are just for fun. Regardless, I'm proud of all of them and I hope you enjoy exploring them as much as I enjoyed creating them.
 
-## 🎉 Indoor Navigation for the Visually Impaired
+## 🎉 Empowering the Visually Impaired with an Innovative Indoor Navigation App
 
-Introducing an innovative indoor navigation app specifically designed for visually impaired individuals. My iPhone app, programmed in Swift, employs advanced particle filter technology to provide accurate and dependable navigation assistance. Take a look at [my video](https://drive.google.com/file/d/1MvOaDDGPZ5dK3lg0F4zSvck8pdmtDzPl/view?usp=sharing) to witness the full extent of my app's capabilities.
+Introducing my iPhone app, designed to provide reliable and accurate navigation assistance to visually impaired individuals navigating indoor spaces. Utilizing advanced particle filter technology and programmed in Swift, my app offers a dependable solution for indoor navigation challenges faced by those with visual impairments.
+
+To see the full capabilities of my app, check out this [video demonstration](https://drive.google.com/file/d/1MvOaDDGPZ5dK3lg0F4zSvck8pdmtDzPl/view?usp=sharing). I'm excited to offer this tool to empower and enhance the independence of visually impaired individuals.
 
 <p>
     <img src="app_demo.gif"/>
