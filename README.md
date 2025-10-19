@@ -14,9 +14,7 @@ Here you will find a selection of my most interesting projects. Some are related
 
 ## 🪻 LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization
 
-LILAC is my latest research project that extends an offline VAE–Diffusion motion stylization framework into a **real-time streaming system**.  
-It achieves low-latency, long-sequence, and temporally consistent stylized motion generation through a causal decoding architecture.  
-This method enables arbitrary motion stylization in real time, making it suitable for animation, avatars, and interactive systems.
+LILAC is my latest research project that extends an offline VAE–Diffusion motion stylization framework into a **real-time streaming system**. It achieves low-latency, long-sequence, and temporally consistent stylized motion generation through a causal decoding architecture. This method enables arbitrary motion stylization in real time, making it suitable for animation, avatars, and interactive systems.
 
 Check out the full preprint on [arXiv](https://arxiv.org/abs/xxxx.xxxxx).
 
