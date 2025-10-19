@@ -18,6 +18,8 @@ LILAC is my latest research project that extends an offline VAE–Diffusion moti
 
 Check out the full preprint on [arXiv](https://arxiv.org/abs/xxxx.xxxxx).
 
+The GIF below shows **long-sequence streaming stylization** results (all with trajectory copy): the **left** clip is the original motion, the **middle** shows real-time transfer among three styles (*old*, *open-leg*, *hands-high*), and the **right** continues the *hands-high* stylization sequence.
+
 <p>
     <img src="walk_circle_hands_high_537_scale_2-516-ezgif.com-optimize.gif" width="900"/>
 </p>
