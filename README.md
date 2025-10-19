@@ -12,6 +12,18 @@ Maintaining a healthy work-life balance can be a daunting task for anyone, espec
 
 Here you will find a selection of my most interesting projects. Some are related to my research, while others are just for fun. Regardless, I'm proud of all of them and I hope you enjoy exploring them as much as I enjoyed creating them.
 
+## 🪻 LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization
+
+LILAC is my latest research project that extends an offline VAE–Diffusion motion stylization framework into a **real-time streaming system**.  
+It achieves low-latency, long-sequence, and temporally consistent stylized motion generation through a causal decoding architecture.  
+This method enables arbitrary motion stylization in real time, making it suitable for animation, avatars, and interactive systems.
+
+Check out the full preprint on [arXiv](https://arxiv.org/abs/xxxx.xxxxx).
+
+<p>
+    <img src="walk_circle_hands_high_537_scale_2-516-ezgif.com-optimize.gif" width="900"/>
+</p>
+
 ## 🎉 Empowering the Visually Impaired with an Innovative Indoor Navigation App
 
 Introducing my iPhone app, designed to provide reliable and accurate navigation assistance to visually impaired individuals navigating indoor spaces. Utilizing advanced particle filter technology and programmed in Swift, my app offers a dependable solution for indoor navigation challenges faced by those with visual impairments.
