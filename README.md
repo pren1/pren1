@@ -16,7 +16,7 @@ Here you will find a selection of my most interesting projects. Some are related
 
 LILAC is my latest research project that extends an offline VAE–Diffusion motion stylization framework into a **real-time streaming system**. It achieves low-latency, long-sequence, and temporally consistent stylized motion generation through a causal decoding architecture. This method enables arbitrary motion stylization in real time, making it suitable for animation, avatars, and interactive systems.
 
-🔗 [Project Page](https://pren1.github.io/lilac/) | 📄 [arXiv Preprint](https://arxiv.org/abs/xxxx.xxxxx)
+🔗 [Project Page](https://pren1.github.io/lilac/) | 📄 [arXiv Preprint](https://arxiv.org/abs/2510.15392)
 
 The GIF below shows **long-sequence streaming stylization** results (all with trajectory copy to preserve spatial consistency for VR users): the **left** clip is the original motion, the **middle** shows real-time transfer among three styles (*old*, *open-leg*, *hands-high*), and the **right** continues the *hands-high* stylization sequence.
 
